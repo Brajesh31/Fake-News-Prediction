@@ -44,3 +44,5 @@ The dataset consists of news articles with their corresponding labels (FAKE or R
 - Dense output layer with sigmoid activation for binary classification
 
 ---
+
+Last updated: 2026-10-13 15:56 UTC
