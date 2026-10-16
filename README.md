@@ -45,4 +45,4 @@ The dataset consists of news articles with their corresponding labels (FAKE or R
 
 ---
 
-Last updated: 2026-10-16 19:24 UTC
+Last updated: 2026-10-16 22:38 UTC
